@@ -14,3 +14,16 @@ Based on the use of the Fitness, predict the number of visitors to the Fitness, 
 4.    Gender
 5.    Educational institution (Hanze vs. UG)
 6.    Exam periods for the UG students.
+
+## Data Resource
+The ACLO data is directly provided by ACLO
+
+
+The covid lockdown period in Netherlands is according to this graph
+![image.png](attachment:image.png)
+
+Zijlmans, J., Tieskens, J. M., van Oers, H. A., Alrouh, H., Luijten, M. A., de Groot, R., ... & Polderman, T. J. (2023). The effects of COVID‐19 on child mental health: Biannual assessments up to April 2022 in a clinical and two general population samples. JCPP advances, 3(2), e12150.
+
+
+As for the weather data, it's from this database:
+
