@@ -20,7 +20,7 @@ The ACLO data is directly provided by ACLO
 
 
 The covid lockdown period in Netherlands is according to this graph
-![image.png](attachment:image.png)
+https://www.researchgate.net/publication/363421335/figure/fig1/AS:11431281083759590@1662772038959/Timeline-of-COVID-19-restrictions-in-the-Netherlands-from-April-2020-to-April-2022.png
 
 Zijlmans, J., Tieskens, J. M., van Oers, H. A., Alrouh, H., Luijten, M. A., de Groot, R., ... & Polderman, T. J. (2023). The effects of COVID‐19 on child mental health: Biannual assessments up to April 2022 in a clinical and two general population samples. JCPP advances, 3(2), e12150.
 
