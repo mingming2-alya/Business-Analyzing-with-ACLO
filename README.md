@@ -8,12 +8,12 @@ To increase the number of fitness users and other ways to promote the Fitness Ca
 
 ## Challenge
 Based on the use of the Fitness, predict the number of visitors to the Fitness, taking into account the influence of 
-1.    Seasons
-2.    Holidays
-3.    The day of the week
-4.    Gender
-5.    Educational institution (Hanze vs. UG)
-6.    Exam periods for the UG students.
+1.  Seasons
+2.  Holidays
+3.  The day of the week
+4.  Gender
+5.  Educational institution (Hanze vs. UG)
+6.  Exam periods for the UG students.
 
 ## Data Resource
 The ACLO data is directly provided by ACLO
@@ -27,3 +27,13 @@ Zijlmans, J., Tieskens, J. M., van Oers, H. A., Alrouh, H., Luijten, M. A., de G
 
 As for the weather data, it's from this database:
 
+## Model Evaluation
+In this following project, we will adopt these measuring matrixes
+1.  Mean Absolute Error:
+    The average absolute difference between predicted and actual values, less sensitive to outliers
+2.  Mean Squared Error: 
+    The average squared difference between predicted and actual values, sensitive to outliers
+3.  R-squared:
+    The proportion of the variance in y that is predictable from x
+4.  Adjusted R-squared: 
+    Modifies the R-squared value based on the number of predictors and the sample size.
