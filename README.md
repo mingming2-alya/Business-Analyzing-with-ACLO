@@ -16,16 +16,17 @@ Based on the use of the Fitness, predict the number of visitors to the Fitness, 
 6.  Exam periods for the UG students.
 
 ## Data Resource
-The ACLO data is directly provided by ACLO
+The ACLO fitness usage data is directly provided by ACLO
 
+The holiday period of the Netherland and the exam period of both educational institution is based on RUG's academic calendar, since Hanze calendar is not accessable before 2023.
 
 The covid lockdown period in Netherlands is according to this graph
 https://www.researchgate.net/publication/363421335/figure/fig1/AS:11431281083759590@1662772038959/Timeline-of-COVID-19-restrictions-in-the-Netherlands-from-April-2020-to-April-2022.png
-
 Zijlmans, J., Tieskens, J. M., van Oers, H. A., Alrouh, H., Luijten, M. A., de Groot, R., ... & Polderman, T. J. (2023). The effects of COVID‐19 on child mental health: Biannual assessments up to April 2022 in a clinical and two general population samples. JCPP advances, 3(2), e12150.
 
-
-As for the weather data, it's from this database:
+As for the weather data, it's from this free database:
+https://weerstatistieken.nl/
+Since they have no data of Groningen, I picked the nearest city De Bilt. For the Temperature in April 2025, it is estimated by KNMI. From May to July, since it hasn't been estimated, I calculated the history average during that day of the year and apply to them.
 
 ## Model Evaluation
 In this following project, we will adopt these measuring matrixes
